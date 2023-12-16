@@ -1,0 +1,27 @@
+body {
+  font-family: arial;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: pink;
+}
+
+ul li a {
+  color: orange;
+}
+
+ol li a {
+  color: grey;
+}
+
+#p1 {
+  color: purple;
+}
+
+.p2 {
+  color: brown;
+}
