@@ -2,12 +2,13 @@ body {
   font-family: arial;
 }
 
-h1 {
+h1,
+h2 {
   color: green;
 }
 
 h2 {
-  color: pink;
+  font-style: italic;
 }
 
 ul li a {
@@ -15,13 +16,25 @@ ul li a {
 }
 
 ol li a {
-  color: grey;
+  color: red;
 }
 
 #p1 {
-  color: purple;
+  color: orange;
 }
 
 .p2 {
-  color: brown;
+  color: red;
+}
+
+.p3 {
+  color: Blue;
+}
+
+.cetak-tebal {
+  font-weight: bold;
+}
+
+p.cetak-tebal {
+  font-size: 40px;
 }
